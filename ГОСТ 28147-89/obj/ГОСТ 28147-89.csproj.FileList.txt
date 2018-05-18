@@ -1,0 +1,8 @@
+bin\Debug\ГОСТ 28147-89.exe
+bin\Debug\ГОСТ 28147-89.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Encryption.Properties.Resources.resources
+obj\Debug\ГОСТ 28147-89.csproj.GenerateResource.Cache
+obj\Debug\ГОСТ 28147-89.exe
+obj\Debug\ГОСТ 28147-89.pdb
+obj\Debug\Encryption.Form1.resources
